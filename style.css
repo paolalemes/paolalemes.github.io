@@ -152,11 +152,14 @@
 	padding-left: 5px;
 }
 
-.education {
+.education,
+.awards {
 	margin-left: 2rem;
 }
 
 .education-left,
-.education-right {
+.education-right,
+.awards-left,
+.awards-right {
 	margin-bottom: 1rem;
 }
